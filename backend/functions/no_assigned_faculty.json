@@ -1,0 +1,95 @@
+{
+    "unassigned": [
+        {
+            "section": "CS22A",
+            "section_course": "BSCS",
+            "section_year": "2",
+            "subject": "IT6223B",
+            "subject_name": "DATA COMMUNICATIONS AND N"
+        },
+        {
+            "section": "CS22A",
+            "section_course": "BSCS",
+            "section_year": "2",
+            "subject": "CS6301",
+            "subject_name": "LOGIC DESIGN AND DIGITAL "
+        },
+        {
+            "section": "EN22A",
+            "section_course": "BSEN",
+            "section_year": "2",
+            "subject": "MGT6255",
+            "subject_name": "INNOVATION MANAGEMENT"
+        },
+        {
+            "section": "EN32A",
+            "section_course": "BSEN",
+            "section_year": "3",
+            "subject": "MKTG6392",
+            "subject_name": "ELECTIVE 4 - EXPORT MARKE"
+        },
+        {
+            "section": "EN32A",
+            "section_course": "BSEN",
+            "section_year": "3",
+            "subject": "MGT6370A",
+            "subject_name": "STRATEGIC MANAGEMENT"
+        },
+        {
+            "section": "EN42A",
+            "section_course": "BSEN",
+            "section_year": "4",
+            "subject": "MGT6398",
+            "subject_name": "MANAGING A SERVICE ENTERP"
+        },
+        {
+            "section": "EN42A",
+            "section_course": "BSEN",
+            "section_year": "4",
+            "subject": "ENTR6396",
+            "subject_name": "BUSINESS PLANT IMPLEMENTA"
+        },
+        {
+            "section": "AIS12A",
+            "section_course": "BSAIS",
+            "section_year": "1",
+            "subject": "MGT6372",
+            "subject_name": "PROJECT MANAGEMENT"
+        },
+        {
+            "section": "AIS12A",
+            "section_course": "BSAIS",
+            "section_year": "1",
+            "subject": "BAMM6201",
+            "subject_name": "LAW OF OBLIGATIONS AND CO"
+        },
+        {
+            "section": "AIS22A",
+            "section_course": "BSAIS",
+            "section_year": "2",
+            "subject": "ACTG6250",
+            "subject_name": "INTRODUCTION TO ACCOUNTIN"
+        },
+        {
+            "section": "AIS22A",
+            "section_course": "BSAIS",
+            "section_year": "2",
+            "subject": "LAW6149",
+            "subject_name": "BUSINESS LAWS AND REGULAT"
+        },
+        {
+            "section": "AIS22A",
+            "section_course": "BSAIS",
+            "section_year": "2",
+            "subject": "ACTG6146",
+            "subject_name": "INTERMEDIATE ACCOUNTING 1"
+        },
+        {
+            "section": "AIS22A",
+            "section_course": "BSAIS",
+            "section_year": "2",
+            "subject": "FMGT6259",
+            "subject_name": "FINANCIAL MARKETS"
+        }
+    ]
+}

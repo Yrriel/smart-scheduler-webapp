@@ -1,0 +1,874 @@
+{
+    "schedules": [
+        {
+            "section": "CS41A",
+            "subject": "GE6115",
+            "subject_name": "ART APPRECIATION",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS41A",
+            "subject": "ITE6301",
+            "subject_name": "TECHNOPRENEURSHIP",
+            "faculty": "Eli Mendoza",
+            "room": "304",
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS41A",
+            "subject": "GE6300",
+            "subject_name": "LIFE AND WORKS OF RIZAL",
+            "faculty": "Diodith Cruz",
+            "room": 201,
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:30"
+        },
+        {
+            "section": "CS41A",
+            "subject": "CS6317",
+            "subject_name": "CS MAJOR ELECTIVE 4 (MULT",
+            "faculty": "Jonel Isaacs",
+            "room": "AVR",
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS41A",
+            "subject": "CS6399",
+            "subject_name": "CS DESIGN PROJECT 2",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "302",
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS41A",
+            "subject": "CS379",
+            "subject_name": "UNIFIED FUNCTION TEST",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6204",
+            "subject_name": "ARCHITECTURE AND ORGANIZA",
+            "faculty": "Jonel Isaacs",
+            "room": "303",
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6300",
+            "subject_name": "SOFTWARE ENGINEERING 2",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6206",
+            "subject_name": "PRINCIPLES OF OPERATING S",
+            "faculty": "Jonel Isaacs",
+            "room": 201,
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS32B",
+            "subject": "ITE6300",
+            "subject_name": "CLOUD COMPUTING AND THE I",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 301,
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6302",
+            "subject_name": "APPLICATION LIFECYCLE MAN",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "201",
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS32B",
+            "subject": "GE6101",
+            "subject_name": "READINGS IN PHILIPPINE HI",
+            "faculty": "Diodith Cruz",
+            "room": 304,
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32B",
+            "subject": "PHYED6103",
+            "subject_name": "INDIVIDUAL\/DUAL SPORTS",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "AVR",
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS32B",
+            "subject": "IT6315",
+            "subject_name": "CS MAJOR ELECTIVE 2",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "NSTP",
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32B",
+            "subject": "GE6115",
+            "subject_name": "ART APPRECIATION",
+            "faculty": "Diodith Cruz",
+            "room": "CHEMLAB",
+            "day": "Friday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS12A",
+            "subject": "ENGL6100",
+            "subject_name": "PURPOSIVE COMMUNICATION 2",
+            "faculty": "Diodith Cruz",
+            "room": "AVR",
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS12A",
+            "subject": "GE6107",
+            "subject_name": "ETHICS",
+            "faculty": "Diodith Cruz",
+            "room": 303,
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS12A",
+            "subject": "CS6100",
+            "subject_name": "DISCRETE STRUCTURES 1",
+            "faculty": "Roy Abad",
+            "room": 302,
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS12A",
+            "subject": "GE6114",
+            "subject_name": "MATHEMATICS IN THE MODERN",
+            "faculty": "Roy Abad",
+            "room": 301,
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS12A",
+            "subject": "ETHNS6102",
+            "subject_name": "EUTHENICS 2",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "08:30"
+        },
+        {
+            "section": "CS12A",
+            "subject": "PHYED6101",
+            "subject_name": "PHYSICAL FITNESS",
+            "faculty": "Roshiel Cantado",
+            "room": "NSTP",
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS12A",
+            "subject": "NSTP6101",
+            "subject_name": "NATIONAL SERVICE TRAINING",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "14:00"
+        },
+        {
+            "section": "CS12A",
+            "subject": "IT6201B",
+            "subject_name": "DATA COMMUNICATIONS AND NETWORKING 1",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "AVR",
+            "day": "Tuesday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "CS12B",
+            "subject": "ENGL6100",
+            "subject_name": "PURPOSIVE COMMUNICATION 2",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS12B",
+            "subject": "GE6107",
+            "subject_name": "ETHICS",
+            "faculty": "Diodith Cruz",
+            "room": 302,
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS12B",
+            "subject": "CS6100",
+            "subject_name": "DISCRETE STRUCTURES 1",
+            "faculty": "Roy Abad",
+            "room": "301",
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS12B",
+            "subject": "GE6114",
+            "subject_name": "MATHEMATICS IN THE MODERN",
+            "faculty": "Roy Abad",
+            "room": "304",
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS12B",
+            "subject": "ETHNS6102",
+            "subject_name": "EUTHENICS 2",
+            "faculty": "Nhelody Matore",
+            "room": "NSTP",
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "08:30"
+        },
+        {
+            "section": "CS12B",
+            "subject": "PHYED6101",
+            "subject_name": "PHYSICAL FITNESS",
+            "faculty": "Roshiel Cantado",
+            "room": "302",
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS12B",
+            "subject": "NSTP6101",
+            "subject_name": "NATIONAL SERVICE TRAINING",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 303,
+            "day": "Friday",
+            "time_start": "07:30",
+            "time_end": "08:30"
+        },
+        {
+            "section": "CS12B",
+            "subject": "IT6201B",
+            "subject_name": "DATA COMMUNICATIONS AND NETWORKING 1",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 201,
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS22A",
+            "subject": "FILI6101",
+            "subject_name": "WIKA, LIPUNAN AT KULTURA",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS22A",
+            "subject": "NSTP6102",
+            "subject_name": "NATIONAL SERVICE TRAINING",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "CHEMLAB",
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "14:00"
+        },
+        {
+            "section": "CS22A",
+            "subject": "CS6203",
+            "subject_name": "OBJECT ORIENTED PROGRAMMI",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "day": "Thursday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "CS22A",
+            "subject": "MATH6103",
+            "subject_name": "CALCULUS 2",
+            "faculty": "Roy Abad",
+            "room": "AVR",
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS22A",
+            "subject": "ITE6200",
+            "subject_name": "APPLICATION DEVELOPMENT A",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "day": "Monday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "CS22A",
+            "subject": "CS6202",
+            "subject_name": "ALGORITHMS AND COMPLEXITY",
+            "faculty": "Jonel Isaacs",
+            "room": 301,
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6204",
+            "subject_name": "ARCHITECTURE AND ORGANIZA",
+            "faculty": "Jonel Isaac",
+            "room": "201",
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6300",
+            "subject_name": "SOFTWARE ENGINEERING 2",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "day": "Friday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6206",
+            "subject_name": "PRINCIPLES OF OPERATING S",
+            "faculty": "Jonel Isaac",
+            "room": "302",
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "ITE6300",
+            "subject_name": "CLOUD COMPUTING AND THE I",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 303,
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6302",
+            "subject_name": "APPLICATION LIFECYCLE MAN",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "GE6101",
+            "subject_name": "READINGS IN PHILIPPINE HI",
+            "faculty": "Diodith Cruz",
+            "room": 304,
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "CS32A",
+            "subject": "PHYED6103",
+            "subject_name": "INDIVIDUAL\/DUAL SPORTS",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 303,
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "IT6315",
+            "subject_name": "CS MAJOR ELECTIVE 2",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 201,
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "CS32A",
+            "subject": "GE6115",
+            "subject_name": "ART APPRECIATION",
+            "faculty": "Diodith Cruz",
+            "room": 302,
+            "day": "Wednesday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "EN12A",
+            "subject": "GE6114",
+            "subject_name": "MATHEMATICS IN THE MODERN",
+            "faculty": "Roy Abad",
+            "room": "CHEMLAB",
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "EN12A",
+            "subject": "ETHNS6102",
+            "subject_name": "EUTHENICS 2",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "14:00"
+        },
+        {
+            "section": "EN12A",
+            "subject": "GE6101",
+            "subject_name": "READINGS IN PHILIPPINE HI",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "EN12A",
+            "subject": "GE6115",
+            "subject_name": "ART APPRECIATION",
+            "faculty": "Diodith Cruz",
+            "room": "NSTP",
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "EN12A",
+            "subject": "ENTR6149",
+            "subject_name": "ENTREPRENEURIAL BEHAVIOR",
+            "faculty": "Nhelody Matore",
+            "room": 303,
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "EN12A",
+            "subject": "LAW6288",
+            "subject_name": "BUS. LAW AND TAXATION",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "EN12A",
+            "subject": "FMGT6252",
+            "subject_name": "FINANCIAL MGT (FINANCIAL ",
+            "faculty": "Eyang Santos",
+            "room": 304,
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN22A",
+            "subject": "NSTP6101",
+            "subject_name": "NATIONAL SERVICE TRAINING",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "201",
+            "day": "Friday",
+            "time_start": "08:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "EN22A",
+            "subject": "FILI6101",
+            "subject_name": "WIKA, LIPUNAN AT KULTURA",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "EN22A",
+            "subject": "PHYED6102",
+            "subject_name": "RHYTHMIC ACTIVITIES",
+            "faculty": "Roshiel Cantado",
+            "room": "CHEMLAB",
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "EN22A",
+            "subject": "MKTG6254",
+            "subject_name": "MARKET RESEARCH AND CONSU",
+            "faculty": "Eyang Santos",
+            "room": 301,
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "EN22A",
+            "subject": "ENTR6261",
+            "subject_name": "ELECTIVE 1 - HOSPITALITY ",
+            "faculty": "Nhelody Matore",
+            "room": 302,
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN22A",
+            "subject": "ENTR6391",
+            "subject_name": "PROGRAMS AND POLICIES ON ",
+            "faculty": "Jessiebel Mangalao",
+            "room": "AVR",
+            "day": "Saturday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN32A",
+            "subject": "PHYED6102",
+            "subject_name": "RHYTHMIC ACTIVITIES",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "EN32A",
+            "subject": "FILI6301",
+            "subject_name": "PAGSASALING PAMPANITIKAN",
+            "faculty": "Roshiel Cantado",
+            "room": "NSTP",
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "EN32A",
+            "subject": "GE6300",
+            "subject_name": "LIFE AND WORKS OF RIZAL",
+            "faculty": "Eli Mendoza",
+            "room": 304,
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:30"
+        },
+        {
+            "section": "EN32A",
+            "subject": "ENTR6262",
+            "subject_name": "BUSINESS PLAN PREPARATION",
+            "faculty": "Eyang Santos",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN32A",
+            "subject": "BAMM6006A",
+            "subject_name": "SPECIALIZED TRACK2 - INTE",
+            "faculty": "Nhelody Matore",
+            "room": 303,
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "EN32A",
+            "subject": "BAMM6206",
+            "subject_name": "HUMAN RESOURCE MANAGEMENT",
+            "faculty": "Kath Dela Cruz",
+            "room": 302,
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN42A",
+            "subject": "TM6362",
+            "subject_name": "SPECIALIZED TRACK3 - TOUR",
+            "faculty": "Jessiebel Mangalao",
+            "room": 303,
+            "day": "Saturday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "EN42A",
+            "subject": "CUL6302",
+            "subject_name": "SPECIALIZED TRACK4 - FOOD",
+            "faculty": "Nhelody Matore",
+            "room": "304",
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN42A",
+            "subject": "ENTR6393",
+            "subject_name": "SOCIAL ENTREPRENEURSHIP",
+            "faculty": "Aj Nicole Silverio",
+            "room": 201,
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "EN42A",
+            "subject": "ENTR6321",
+            "subject_name": "BUSINESS PLAN IMPLEMENTATION 2",
+            "faculty": "Eyang Santos",
+            "room": "304",
+            "day": "Tuesday",
+            "time_start": "13:30",
+            "time_end": "16:30"
+        },
+        {
+            "section": "AIS12A",
+            "subject": "GE6114",
+            "subject_name": "MATHEMATICS IN THE MODERN",
+            "faculty": "Roy Abad",
+            "room": "NSTP",
+            "day": "Monday",
+            "time_start": "15:00",
+            "time_end": "17:00"
+        },
+        {
+            "section": "AIS12A",
+            "subject": "ETHNS6102",
+            "subject_name": "EUTHENICS 2",
+            "faculty": "Nhelody Matore",
+            "room": "AVR",
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "14:00"
+        },
+        {
+            "section": "AIS12A",
+            "subject": "GE6101",
+            "subject_name": "READINGS IN PHILIPPINE HI",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "AIS12A",
+            "subject": "GE6115",
+            "subject_name": "ART APPRECIATION",
+            "faculty": "Diodith Cruz",
+            "room": "CHEMLAB",
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "AIS12A",
+            "subject": "BAFM6102",
+            "subject_name": "FINANCIAL MANAGEMENT",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "10:30"
+        },
+        {
+            "section": "AIS22A",
+            "subject": "FILI6101",
+            "subject_name": "WIKA, LIPUNAN AT KULTURA",
+            "faculty": "Roshiel Cantado",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time_start": "14:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "AIS22A",
+            "subject": "PHYED6102",
+            "subject_name": "RHYTHMIC ACTIVITIES",
+            "faculty": "Roshiel Cantado",
+            "room": 302,
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "AIS22A",
+            "subject": "NSTP6102",
+            "subject_name": "NATIONAL SERVICE TRAINING",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "08:30"
+        },
+        {
+            "section": "AIS22A",
+            "subject": "GE6101",
+            "subject_name": "READINGS IN PHILIPPINE HI",
+            "faculty": "Diodith Cruz",
+            "room": 303,
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00"
+        },
+        {
+            "section": "AIS22A",
+            "subject": "MGT6147",
+            "subject_name": "STRATEGIC COST MANAGEMENT",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "FILI6301",
+            "subject_name": "PAGSASALING PAMPANITIKAN",
+            "faculty": "Roshiel Cantado",
+            "room": 301,
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "PHYED6103",
+            "subject_name": "INDIVIDUAL\/DUAL SPORTS",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 302,
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "GE6300",
+            "subject_name": "LIFE AND WORKS OF RIZAL",
+            "faculty": "Diodith Cruz",
+            "room": "AVR",
+            "day": "Friday",
+            "time_start": "15:00",
+            "time_end": "17:30"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "IS6263",
+            "subject_name": "INFORMATION SYSTEMS OPERA",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "ECON6142",
+            "subject_name": "MANAGERIAL ECONOMICS",
+            "faculty": "Kath Dela Cruz",
+            "room": 303,
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "16:00"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "TAX6253",
+            "subject_name": "BUSINESS TAXATION",
+            "faculty": "Eyang Santos",
+            "room": 304,
+            "day": "Monday",
+            "time_start": "10:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "MIT6261",
+            "subject_name": "MANAGING INFORMATION TECH",
+            "faculty": "Jessiebel Mangalao",
+            "room": "AVR",
+            "day": "Saturday",
+            "time_start": "10:30",
+            "time_end": "11:30"
+        },
+        {
+            "section": "AIS32A",
+            "subject": "ACTG6257",
+            "subject_name": "INTERMEDIATE ACCOUNTING 3",
+            "faculty": "Eyang Santos",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time_start": "10:30",
+            "time_end": "11:30"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+[07:22:09] === SCHEDULE GENERATION DEBUG LOG ===
+[07:22:09] Script started at: 2026-01-26 07:22:09
+[07:22:09] Libraries loaded successfully
+[07:22:09] 
+--- FETCHING DATABASE DATA ---
+[07:22:09] Subjects found: 33
+[07:22:09] Sections found: 6
+[07:22:09] Faculty found: 13
+[07:22:09] Rooms found: 9
+[07:22:09] Faculty availability records: 13
+[07:22:09] Faculty-subject assignments: 9
+[07:22:09] 
+--- OPENAI SETUP ---
+[07:22:09] API Key length: 164
+[07:22:09] API Key starts with: sk-proj...
+[07:22:09] OpenAI client created successfully
+[07:22:09] 
+--- STARTING SCHEDULE GENERATION ---
+[07:22:09] 
+>>> Processing: cs41a <<<
+[07:22:09]   Subjects: 7
+[07:22:09]   Attempt 1: Calling OpenAI...
+[07:22:09]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:09]   ✗ Message: Request rate limit has been exceeded.
+[07:22:12]   Attempt 2: Calling OpenAI...
+[07:22:13]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:13]   ✗ Message: Request rate limit has been exceeded.
+[07:22:16]   Attempt 3: Calling OpenAI...
+[07:22:16]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:16]   ✗ Message: Request rate limit has been exceeded.
+[07:22:16] 
+>>> Processing: CS32B <<<
+[07:22:16]   Subjects: 9
+[07:22:16]   Attempt 1: Calling OpenAI...
+[07:22:17]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:17]   ✗ Message: Request rate limit has been exceeded.
+[07:22:20]   Attempt 2: Calling OpenAI...
+[07:22:20]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:20]   ✗ Message: Request rate limit has been exceeded.
+[07:22:23]   Attempt 3: Calling OpenAI...
+[07:22:23]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:23]   ✗ Message: Request rate limit has been exceeded.
+[07:22:23] 
+>>> Processing: CS12A <<<
+[07:22:23]   Subjects: 8
+[07:22:23]   Attempt 1: Calling OpenAI...
+[07:22:24]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:24]   ✗ Message: Request rate limit has been exceeded.
+[07:22:27]   Attempt 2: Calling OpenAI...
+[07:22:27]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:27]   ✗ Message: Request rate limit has been exceeded.
+[07:22:30]   Attempt 3: Calling OpenAI...
+[07:22:30]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:30]   ✗ Message: Request rate limit has been exceeded.
+[07:22:30] 
+>>> Processing: CS12B <<<
+[07:22:30]   Subjects: 8
+[07:22:30]   Attempt 1: Calling OpenAI...
+[07:22:31]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:31]   ✗ Message: Request rate limit has been exceeded.
+[07:22:34]   Attempt 2: Calling OpenAI...
+[07:22:34]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:34]   ✗ Message: Request rate limit has been exceeded.
+[07:22:37]   Attempt 3: Calling OpenAI...
+[07:22:38]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:38]   ✗ Message: Request rate limit has been exceeded.
+[07:22:38] 
+>>> Processing: CS22A <<<
+[07:22:38]   Subjects: 9
+[07:22:38]   Attempt 1: Calling OpenAI...
+[07:22:38]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:38]   ✗ Message: Request rate limit has been exceeded.
+[07:22:41]   Attempt 2: Calling OpenAI...
+[07:22:42]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:42]   ✗ Message: Request rate limit has been exceeded.
+[07:22:45]   Attempt 3: Calling OpenAI...
+[07:22:45]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:45]   ✗ Message: Request rate limit has been exceeded.
+[07:22:45] 
+>>> Processing: CS32A <<<
+[07:22:45]   Subjects: 9
+[07:22:45]   Attempt 1: Calling OpenAI...
+[07:22:45]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:45]   ✗ Message: Request rate limit has been exceeded.
+[07:22:48]   Attempt 2: Calling OpenAI...
+[07:22:48]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:48]   ✗ Message: Request rate limit has been exceeded.
+[07:22:51]   Attempt 3: Calling OpenAI...
+[07:22:52]   ✗ Exception: OpenAI\Exceptions\RateLimitException
+[07:22:52]   ✗ Message: Request rate limit has been exceeded.
+[07:22:52] 
+--- GENERATION COMPLETE ---
+[07:22:52] Total entries generated: 0
+[07:22:52] Sections skipped: 6
+[07:22:52] Saved to output.json
+[07:22:52] Saved skipped sections to skipped_sections.json
+[07:22:52] 
+=== SCRIPT COMPLETE ===
+[07:22:52] Check debug_log.txt for full details

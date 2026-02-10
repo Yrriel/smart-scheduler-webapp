@@ -1,0 +1,16 @@
+{
+    "require": {
+        "nyholm/psr7": "^1.8",
+        "symfony/http-client": "7.0",
+        "openai-php/client": "^0.18.0",
+        "phpoffice/phpspreadsheet": "^5.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        },
+        "platform": {
+            "php": "8.2.12"
+        }
+    }
+}

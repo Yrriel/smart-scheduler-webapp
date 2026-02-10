@@ -1,0 +1,676 @@
+{
+    "occupied": [
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "section": "CS41A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Eli Mendoza",
+            "room": "304",
+            "section": "CS41A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:30",
+            "faculty": "Diodith Cruz",
+            "room": 201,
+            "section": "CS41A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Jonel Isaacs",
+            "room": "AVR",
+            "section": "CS41A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "302",
+            "section": "CS41A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "section": "CS41A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Jonel Isaacs",
+            "room": "303",
+            "section": "CS32B"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "section": "CS32B"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Jonel Isaacs",
+            "room": 201,
+            "section": "CS32B"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 301,
+            "section": "CS32B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "201",
+            "section": "CS32B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Diodith Cruz",
+            "room": 304,
+            "section": "CS32B"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "AVR",
+            "section": "CS32B"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "NSTP",
+            "section": "CS32B"
+        },
+        {
+            "day": "Friday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Diodith Cruz",
+            "room": "CHEMLAB",
+            "section": "CS32B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Diodith Cruz",
+            "room": "AVR",
+            "section": "CS12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Diodith Cruz",
+            "room": 303,
+            "section": "CS12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Roy Abad",
+            "room": 302,
+            "section": "CS12A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Roy Abad",
+            "room": 301,
+            "section": "CS12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "08:30",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "section": "CS12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Roshiel Cantado",
+            "room": "NSTP",
+            "section": "CS12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "14:00",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "CHEMLAB",
+            "section": "CS12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": "AVR",
+            "section": "CS12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "section": "CS12B"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Diodith Cruz",
+            "room": 302,
+            "section": "CS12B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Roy Abad",
+            "room": "301",
+            "section": "CS12B"
+        },
+        {
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Roy Abad",
+            "room": "304",
+            "section": "CS12B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "08:30",
+            "faculty": "Nhelody Matore",
+            "room": "NSTP",
+            "section": "CS12B"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Roshiel Cantado",
+            "room": "302",
+            "section": "CS12B"
+        },
+        {
+            "day": "Friday",
+            "time_start": "07:30",
+            "time_end": "08:30",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 303,
+            "section": "CS12B"
+        },
+        {
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 201,
+            "section": "CS12B"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "section": "CS22A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "14:00",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "CHEMLAB",
+            "section": "CS22A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "section": "CS22A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Roy Abad",
+            "room": "AVR",
+            "section": "CS22A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "section": "CS22A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Jonel Isaacs",
+            "room": 301,
+            "section": "CS22A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Jonel Isaac",
+            "room": "201",
+            "section": "CS32A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "section": "CS32A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Jonel Isaac",
+            "room": "302",
+            "section": "CS32A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 303,
+            "section": "CS32A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "NSTP",
+            "section": "CS32A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Diodith Cruz",
+            "room": 304,
+            "section": "CS32A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 303,
+            "section": "CS32A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 201,
+            "section": "CS32A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Diodith Cruz",
+            "room": 302,
+            "section": "CS32A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Roy Abad",
+            "room": "CHEMLAB",
+            "section": "EN12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "14:00",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "section": "EN12A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "section": "EN12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Diodith Cruz",
+            "room": "NSTP",
+            "section": "EN12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Nhelody Matore",
+            "room": 303,
+            "section": "EN12A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "section": "EN12A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Eyang Santos",
+            "room": 304,
+            "section": "EN12A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "08:30",
+            "time_end": "09:30",
+            "faculty": "Judy Anne Puno Amay",
+            "room": "201",
+            "section": "EN22A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "section": "EN22A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "09:30",
+            "time_end": "11:30",
+            "faculty": "Roshiel Cantado",
+            "room": "CHEMLAB",
+            "section": "EN22A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Eyang Santos",
+            "room": 301,
+            "section": "EN22A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Nhelody Matore",
+            "room": 302,
+            "section": "EN22A"
+        },
+        {
+            "day": "Saturday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Jessiebel Mangalao",
+            "room": "AVR",
+            "section": "EN22A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Roshiel Cantado",
+            "room": "AVR",
+            "section": "EN32A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Roshiel Cantado",
+            "room": "NSTP",
+            "section": "EN32A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:00",
+            "time_end": "15:30",
+            "faculty": "Eli Mendoza",
+            "room": 304,
+            "section": "EN32A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Eyang Santos",
+            "room": "CHEMLAB",
+            "section": "EN32A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Nhelody Matore",
+            "room": 303,
+            "section": "EN32A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Kath Dela Cruz",
+            "room": 302,
+            "section": "EN32A"
+        },
+        {
+            "day": "Saturday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Jessiebel Mangalao",
+            "room": 303,
+            "section": "EN42A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Nhelody Matore",
+            "room": "304",
+            "section": "EN42A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Aj Nicole Silverio",
+            "room": 201,
+            "section": "EN42A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "13:30",
+            "time_end": "16:30",
+            "faculty": "Eyang Santos",
+            "room": "304",
+            "section": "EN42A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "15:00",
+            "time_end": "17:00",
+            "faculty": "Roy Abad",
+            "room": "NSTP",
+            "section": "AIS12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "13:00",
+            "time_end": "14:00",
+            "faculty": "Nhelody Matore",
+            "room": "AVR",
+            "section": "AIS12A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Diodith Cruz",
+            "room": "301",
+            "section": "AIS12A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Diodith Cruz",
+            "room": "CHEMLAB",
+            "section": "AIS12A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "10:30",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "section": "AIS12A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "14:00",
+            "time_end": "16:00",
+            "faculty": "Roshiel Cantado",
+            "room": "CHEMLAB",
+            "section": "AIS22A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Roshiel Cantado",
+            "room": 302,
+            "section": "AIS22A"
+        },
+        {
+            "day": "Tuesday",
+            "time_start": "07:30",
+            "time_end": "08:30",
+            "faculty": "Judy Anne Puno Amay",
+            "room": 304,
+            "section": "AIS22A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "13:00",
+            "time_end": "15:00",
+            "faculty": "Diodith Cruz",
+            "room": 303,
+            "section": "AIS22A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Eyang Santos",
+            "room": 201,
+            "section": "AIS22A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Roshiel Cantado",
+            "room": 301,
+            "section": "AIS32A"
+        },
+        {
+            "day": "Monday",
+            "time_start": "07:30",
+            "time_end": "09:30",
+            "faculty": "Ranz Andrei Ornopia",
+            "room": 302,
+            "section": "AIS32A"
+        },
+        {
+            "day": "Friday",
+            "time_start": "15:00",
+            "time_end": "17:30",
+            "faculty": "Diodith Cruz",
+            "room": "AVR",
+            "section": "AIS32A"
+        },
+        {
+            "day": "Wednesday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Rohmer Roi Bujawe",
+            "room": "CHEMLAB",
+            "section": "AIS32A"
+        },
+        {
+            "day": "Thursday",
+            "time_start": "13:00",
+            "time_end": "16:00",
+            "faculty": "Kath Dela Cruz",
+            "room": 303,
+            "section": "AIS32A"
+        }
+    ]
+}

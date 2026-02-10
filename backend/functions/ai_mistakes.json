@@ -1,0 +1,356 @@
+{
+    "mistakes": [
+        {
+            "section": "cs41a",
+            "subject": "GE6115",
+            "room": "301",
+            "day": "Friday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "ITE6301",
+            "room": "301",
+            "day": "Monday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "GE6300",
+            "room": "301",
+            "day": "Thursday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "CS6317",
+            "room": "301",
+            "day": "Friday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "CS6399",
+            "room": "301",
+            "day": "Thursday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "CS379",
+            "room": "301",
+            "day": "Monday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "cs41a",
+            "subject": "CS379",
+            "room": "301",
+            "day": "Wednesday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6204",
+            "room": "204",
+            "day": "Thursday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6300",
+            "room": "204",
+            "day": "Wednesday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6206",
+            "room": "204",
+            "day": "Tuesday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "ITE6300",
+            "room": "204",
+            "day": "Saturday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "CS6302",
+            "room": "204",
+            "day": "Thursday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "GE6101",
+            "room": "204",
+            "day": "Friday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "PHYED6103",
+            "room": "204",
+            "day": "Saturday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "IT6315",
+            "room": "204",
+            "day": "Saturday",
+            "time": "16:00-17:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32B",
+            "subject": "GE6115",
+            "room": "204",
+            "day": "Friday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "ENGL6100",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "07:30-09:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "GE6107",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "09:00-10:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "CS6100",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "GE6114",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "ETHNS6102",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time": "11:30-12:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "PHYED6101",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "07:30-10:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12A",
+            "subject": "IT6201B",
+            "room": "CHEMLAB",
+            "day": "Friday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "ENGL6100",
+            "room": "301",
+            "day": "Saturday",
+            "time": "07:30-10:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "GE6107",
+            "room": "301",
+            "day": "Saturday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "CS6100",
+            "room": "301",
+            "day": "Tuesday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "GE6114",
+            "room": "301",
+            "day": "Thursday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "ETHNS6102",
+            "room": "301",
+            "day": "Friday",
+            "time": "10:30-11:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "PHYED6101",
+            "room": "301",
+            "day": "Wednesday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS12B",
+            "subject": "IT6201B",
+            "room": "301",
+            "day": "Friday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "FILI6101",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "07:30-09:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "CS6203",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "09:00-10:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "MATH6103",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "13:00-14:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "ITE6200",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "14:30-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "CS6202",
+            "room": "CHEMLAB",
+            "day": "Saturday",
+            "time": "16:00-17:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS22A",
+            "subject": "ITE6220",
+            "room": "CHEMLAB",
+            "day": "Tuesday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6300",
+            "room": "201",
+            "day": "Saturday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6206",
+            "room": "201",
+            "day": "Saturday",
+            "time": "07:30-10:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "ITE6300",
+            "room": "201",
+            "day": "Monday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "CS6302",
+            "room": "201",
+            "day": "Saturday",
+            "time": "10:30-12:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "GE6101",
+            "room": "201",
+            "day": "Saturday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "PHYED6103",
+            "room": "201",
+            "day": "Saturday",
+            "time": "16:00-17:30",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "IT6315",
+            "room": "201",
+            "day": "Friday",
+            "time": "13:00-16:00",
+            "reason": "Outside available slot or overlap"
+        },
+        {
+            "section": "CS32A",
+            "subject": "GE6115",
+            "room": "201",
+            "day": "Saturday",
+            "time": "07:30-10:30",
+            "reason": "Outside available slot or overlap"
+        }
+    ]
+}

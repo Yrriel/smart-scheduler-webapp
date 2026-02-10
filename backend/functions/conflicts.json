@@ -1,0 +1,269 @@
+{
+    "has_conflict": true,
+    "conflicts": [
+        {
+            "type": "ROOM",
+            "day": "Tuesday",
+            "entry_1": {
+                "section": "cs41a",
+                "subject": "ITE6301",
+                "subject_name": "TECHNOPRENEURSHIP",
+                "faculty": "Eli Mendoza",
+                "room": "301",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "ITE6300",
+                "subject_name": "CLOUD COMPUTING AND THE I",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "301",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "08:30"
+            }
+        },
+        {
+            "type": "ROOM",
+            "day": "Thursday",
+            "entry_1": {
+                "section": "cs41a",
+                "subject": "GE6300",
+                "subject_name": "LIFE AND WORKS OF RIZAL",
+                "faculty": "Eli Mendoza",
+                "room": "301",
+                "day": "Thursday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "IT6315",
+                "subject_name": "CS MAJOR ELECTIVE 2",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "301",
+                "day": "Thursday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            }
+        },
+        {
+            "type": "FACULTY",
+            "day": "Monday",
+            "entry_1": {
+                "section": "cs41a",
+                "subject": "CS6317",
+                "subject_name": "CS MAJOR ELECTIVE 4 (MULT",
+                "faculty": "Jonel Isaac",
+                "room": "303",
+                "day": "Monday",
+                "time_start": "10:30",
+                "time_end": "13:00"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "CS6206",
+                "subject_name": "PRINCIPLES OF OPERATING S",
+                "faculty": "Jonel Isaac",
+                "room": "204",
+                "day": "Monday",
+                "time_start": "10:30",
+                "time_end": "11:30"
+            }
+        },
+        {
+            "type": "FACULTY",
+            "day": "Wednesday",
+            "entry_1": {
+                "section": "cs41a",
+                "subject": "CS6317",
+                "subject_name": "CS MAJOR ELECTIVE 4 (MULT",
+                "faculty": "Jonel Isaac",
+                "room": "303",
+                "day": "Wednesday",
+                "time_start": "07:30",
+                "time_end": "08:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "CS6206",
+                "subject_name": "PRINCIPLES OF OPERATING S",
+                "faculty": "Jonel Isaac",
+                "room": "204",
+                "day": "Wednesday",
+                "time_start": "07:30",
+                "time_end": "08:30"
+            }
+        },
+        {
+            "type": "FACULTY",
+            "day": "Wednesday",
+            "entry_1": {
+                "section": "cs41a",
+                "subject": "CS379",
+                "subject_name": "UNIFIED FUNCTION TEST",
+                "faculty": "Rohmer Roi Bujawe",
+                "room": "CHEMLAB",
+                "day": "Wednesday",
+                "time_start": "08:30",
+                "time_end": "11:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "CS6302",
+                "subject_name": "APPLICATION LIFECYCLE MAN",
+                "faculty": "Rohmer Roi Bujawe",
+                "room": "302",
+                "day": "Wednesday",
+                "time_start": "08:30",
+                "time_end": "11:30"
+            }
+        },
+        {
+            "type": "SECTION",
+            "day": "Tuesday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "CS6300",
+                "subject_name": "SOFTWARE ENGINEERING 2",
+                "faculty": "Rohmer Roi Bujawe",
+                "room": "201",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "ITE6300",
+                "subject_name": "CLOUD COMPUTING AND THE I",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "301",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "08:30"
+            }
+        },
+        {
+            "type": "SECTION",
+            "day": "Tuesday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "CS6300",
+                "subject_name": "SOFTWARE ENGINEERING 2",
+                "faculty": "Rohmer Roi Bujawe",
+                "room": "201",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            },
+            "entry_2": {
+                "section": "CS32B",
+                "subject": "PHYED6103",
+                "subject_name": "INDIVIDUAL\/DUAL SPORTS",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "NSTP",
+                "day": "Tuesday",
+                "time_start": "08:30",
+                "time_end": "11:30"
+            }
+        },
+        {
+            "type": "FACULTY",
+            "day": "Monday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "GE6101",
+                "subject_name": "READINGS IN PHILIPPINE HI",
+                "faculty": "Diodith Cruz",
+                "room": "303",
+                "day": "Monday",
+                "time_start": "13:00",
+                "time_end": "16:00"
+            },
+            "entry_2": {
+                "section": "CS12A",
+                "subject": "GE6107",
+                "subject_name": "ETHICS",
+                "faculty": "Diodith Cruz",
+                "room": "201",
+                "day": "Monday",
+                "time_start": "13:00",
+                "time_end": "13:30"
+            }
+        },
+        {
+            "type": "ROOM",
+            "day": "Tuesday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "PHYED6103",
+                "subject_name": "INDIVIDUAL\/DUAL SPORTS",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "NSTP",
+                "day": "Tuesday",
+                "time_start": "08:30",
+                "time_end": "11:30"
+            },
+            "entry_2": {
+                "section": "CS12A",
+                "subject": "PHYED6101",
+                "subject_name": "PHYSICAL FITNESS",
+                "faculty": "Roshiel Cantado",
+                "room": "NSTP",
+                "day": "Tuesday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            }
+        },
+        {
+            "type": "FACULTY",
+            "day": "Thursday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "IT6315",
+                "subject_name": "CS MAJOR ELECTIVE 2",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "301",
+                "day": "Thursday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            },
+            "entry_2": {
+                "section": "CS12A",
+                "subject": "IT6201B",
+                "subject_name": "DATA COMMUNICATIONS AND N",
+                "faculty": "Ranz Andrei Ornopia",
+                "room": "CHEMLAB",
+                "day": "Thursday",
+                "time_start": "07:30",
+                "time_end": "10:30"
+            }
+        },
+        {
+            "type": "ROOM",
+            "day": "Tuesday",
+            "entry_1": {
+                "section": "CS32B",
+                "subject": "GE6115",
+                "subject_name": "ART APPRECIATION",
+                "faculty": "Diodith Cruz",
+                "room": "303",
+                "day": "Tuesday",
+                "time_start": "13:00",
+                "time_end": "16:00"
+            },
+            "entry_2": {
+                "section": "CS12A",
+                "subject": "CS6100",
+                "subject_name": "DISCRETE STRUCTURES 1",
+                "faculty": "Roy Abad",
+                "room": "303",
+                "day": "Tuesday",
+                "time_start": "13:00",
+                "time_end": "14:00"
+            }
+        }
+    ]
+}

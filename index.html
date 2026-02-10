@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="src/logo.png" type="image/x-icon">
+    <title>SmartSched</title>
+</head>
+<body>
+    <nav>
+        <div class="logo-container"><span class="img-container"><img src="src/logo.png" alt="" srcset=""></span><p>SmartSched</p></div>
+    </nav>
+    <section>
+        <h2>Simplify your <span>Schedule Management</span></h2>
+        <div class="button-container"><button id="button-login-modal">Get Started</button></div>
+    </section>
+
+<!-- Modal Login -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="close">&times;</div>
+
+    <form class="login-form" method="post" action="backend/login/backend_login.php">
+        <h3>Sign-in</h3>
+        <input type="text" placeholder="Email" name="username" required> <br>
+        <input type="password" placeholder="Password" name="password" required>
+        <div class="button-container-login"><button id="button-login">Login</button></div>
+    </form>
+
+  </div>
+
+</div>
+
+<script>
+// modal script
+let modal = document.getElementById("myModal");
+let btn = document.getElementById("button-login-modal");
+let span = document.getElementsByClassName("close")[0];
+// let loginbtn = document.getElementById("button-login");
+
+// user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+// loginbtn.onclick = function() {
+//     window.location.href = "dashboard.html";
+// }
+
+</script>
+
+</body>
+</html>
